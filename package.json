@@ -1,0 +1,8 @@
+{
+  "name": "project-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucassousa12/project-todo.git",
+  "author": "Lucas Sousa <francisco1209lucas@gmail.com>",
+  "license": "MIT"
+}
